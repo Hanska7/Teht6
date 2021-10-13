@@ -1,5 +1,27 @@
 body {
 
     float: left;
+    font-family: 'Trebuchet MS';
+    padding: 20px;
+    margin: 40px;
     
+
 }
+
+
+
+a:hover {
+    
+    background-color: red;
+        
+}
+    
+
+
+
+palkki {
+
+    width: auto;
+
+}
+
