@@ -6,6 +6,13 @@
 }
 
 
+header {
+
+    background-color: green;
+
+}
+
+
 body {
 
     width: 90%;
@@ -19,6 +26,7 @@ body {
 
 section {
 
+    background-color: yellow;
     float:left;
     width: 40%;
 
@@ -26,6 +34,7 @@ section {
 
 nav {
 
+    background-color: red;
     float: left;
     width: 40%;
 
